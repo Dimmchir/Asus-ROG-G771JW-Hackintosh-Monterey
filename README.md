@@ -47,3 +47,12 @@ Smbios serial numbers have been removed from Config.plist:
 You need to make your own Smbios. It is convenient to do this using CloverConfigurator app and insert values ​​using PlistEdit Pro
 ![Smbios](https://github.com/user-attachments/assets/760b92fb-3a61-45b9-a06e-ba790ba41f11)
 
+# BIOS settings
+![20240801_193009](https://github.com/user-attachments/assets/4631d312-e249-4972-b903-cbfaa21a86ac)
+![20240801_192922](https://github.com/user-attachments/assets/c569ab79-bf9a-4d44-9320-829de83b0547)
+![20240801_192907](https://github.com/user-attachments/assets/81e3a296-31c3-4a1a-8458-099a3920a5a8)
+![20240801_192813](https://github.com/user-attachments/assets/bada4a71-787b-4b59-bc23-d7ddec32a268)
+
+# USB Map
+![USB_Map](https://github.com/user-attachments/assets/7b02ef11-29f2-4d17-9d06-e523518ce599)
+
