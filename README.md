@@ -15,6 +15,7 @@ _________________________________
 - Sound
 - Trackpad with Gestures
 - Keyboard Backlight
+- Battery status and info power 
 - Function Keys (Keyboard Backlight, Brightness, Volume)
 - Ethernet/Wireless/Bluetooth
 - Camera
@@ -23,7 +24,6 @@ _________________________________
 _________________________________
 # What doesnt work : 
 ```
-- Battery Support - It worked in Big Sur
 - Internal Card Reader - It worked in Big Sur
 - Sleep - It worked in Big Sur
 ```
